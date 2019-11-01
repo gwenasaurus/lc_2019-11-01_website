@@ -8,6 +8,7 @@ Peter has published several books on krill migration including
 * _Krill: The Ants of the Sea_
 * _The Krill Go Marching Two by Two_
 * _To Krill or Not to Krill_
+* _Krill: Friends or food?_
 
 His investigative work on the forced relocation of krill won Peter the [Pulitzer Prize](https://en.wikipedia.org/wiki/Pulitzer_Prize) for journalism in 2016.
 
