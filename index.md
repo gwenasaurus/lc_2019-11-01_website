@@ -1,22 +1,14 @@
-You can use markdown to add content to you webpage.
+**Peter Penguin** is a marine biologist best known for his research on krill migrations.
 
-Here are some highlights of markdown syntax.
+## Biography
+Peter was born in 2010 on the shelf ice of Antarctica.  An [Emperor penguin](https://en.wikipedia.org/wiki/Emperor_penguin), he attended the Royal Academy of Antarctica where he earned his Ph.D. in marine biology.
 
-# Heading 1
-## Heading 2
-### Heading 3
+## Bibliography
+Peter has published several books on krill migration including
+* _Krill: The Ants of the Sea_
+* _The Krill Go Marching Two by Two_
+* _To Krill or Not to Krill_
 
-**bold**
-*italics*
+His investigative work on the forced relocation of krill won Peter the [Pulitzer Prize](https://en.wikipedia.org/wiki/Pulitzer_Prize) for journalism in 2016.
 
-1. List Item 1
-2. List Item 2
-
-* Bullet 1
-* Bullet 2
-* Bullet 3
-
-[This is a link](https://google.com)
-
-Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+![Photo of Peter Penguin on the ice](https://commons.wikimedia.org/w/index.php?sort=relevance&search=emperor+penguin&title=Special%3ASearch&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Emperor_Penguin_Manchot_empereur.jpg)
