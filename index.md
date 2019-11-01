@@ -11,4 +11,4 @@ Peter has published several books on krill migration including
 
 His investigative work on the forced relocation of krill won Peter the [Pulitzer Prize](https://en.wikipedia.org/wiki/Pulitzer_Prize) for journalism in 2016.
 
-![Photo of Peter Penguin on the ice](https://commons.wikimedia.org/w/index.php?sort=relevance&search=emperor+penguin&title=Special%3ASearch&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Emperor_Penguin_Manchot_empereur.jpg)
+![Photo of Peter Penguin on the ice](https://upload.wikimedia.org/wikipedia/commons/0/07/Emperor_Penguin_Manchot_empereur.jpg)
